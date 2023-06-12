@@ -24,10 +24,23 @@
               "enum": [
                 "A",
                 "B",
+                "C",
                 ""
               ]
             },
             "title": "Group"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "number",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

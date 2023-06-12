@@ -23,6 +23,18 @@
               "enum": [
                 "A",
                 "B",
+                "C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "number",
                 ""
               ]
             }
