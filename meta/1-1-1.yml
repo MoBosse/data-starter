@@ -61,15 +61,7 @@ source_active_5: false
 source_active_6: false
     
 data_show_map: False    
-data_start_values: 
-  - field: timeseries
-    value: population who were exposed to physical violence
-  - field: timeseries
-    value: population who were victims of criminal offences
-  - field: timeseries
-    value: victims of criminal offences
-  - field: Units
-    value: percentage    
+   
     
 copyright: '&copy; Statistisches Bundesamt (Destatis), 2023'    
 footer_fields:
