@@ -74,17 +74,7 @@ footer_fields:
 # Grafik Eigenschaften    
 graph_title: Bevölkerung, die körperlicher Gewalt ausgesetzt war sowie Opfer von (angezeigten) Straftaten
 graph_subtitle:     
-graph_types: 
-  - unit: number
-    type: line
-  - unit: percentage
-    type: bar    
-
-graph_series_breaks:
-  - unit: percentage
-    value: 9.5
-show_line: true
-span_gaps: false
+graph_type: line
 
 precision:
   - unit: percentage
