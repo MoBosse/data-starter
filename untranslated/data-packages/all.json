@@ -41,9 +41,11 @@
           },
           {
             "name": "age group",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "a",
+                "b",
                 ""
               ]
             }
