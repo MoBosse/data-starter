@@ -63,23 +63,12 @@ data_show_map: False
    
     
 copyright: '&copy; Statistisches Bundesamt (Destatis), 2023'    
-footer_fields:
-  - unit: percentage
-    label: Anmerkungen
-    value: '<br>• Bei den im Berichtsjahr erfassten Opfern kann das Tatjahr auch davor liegen (Ausgangsstatistik). Personen, die im Berichtsjahr mehrfach als Opfer erfasst wurden, werden entsprechend mehrfach gezählt.<br>• 2022 vorläufige Daten. <br>• Abweichend zur Polizeilichen Kriminalstatistik (PKS) wird die Durchschnitts- anstelle der Stichtagsbevölkerung zum 31. Dezember des Vorjahres für die Berechnung der Opfergefährdungszahl verwendet. <br>• Für 2010 wurde die Bevölkerung anhand des Zensus 2011 sowie der Wanderungs-, Geburten- und Sterbestatistiken zurückgerechnet.<br>• Bevölkerung, die körperlicher Gewalt ausgesetzt war: Aufgrund methodischer Änderungen sind die Ergebnisse ab 2020 nur eingeschränkt mit den Vorjahren vergleichbar.'
-  - unit: number
-    label: Anmerkung
-    value: Bei den im Berichtsjahr erfassten Opfern kann das Tatjahr auch davor liegen (Ausgangsstatistik). Personen, die im Berichtsjahr mehrfach als Opfer erfasst wurden, werden entsprechend mehrfach gezählt.    
 
 # Grafik Eigenschaften    
 graph_title: Bevölkerung, die körperlicher Gewalt ausgesetzt war sowie Opfer von (angezeigten) Straftaten
 graph_subtitle:     
 graph_type: line
 
-precision:
-  - unit: percentage
-    decimals: 1
-  - unit: number
     decimals: 0    
 
 previous: 16-1-2    
