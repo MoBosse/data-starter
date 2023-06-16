@@ -1,132 +1,131 @@
 Year,Units,timeseries,age group,sex,Value
-2010,percentage,population who were exposed to physical violence,,,
-2011,percentage,population who were exposed to physical violence,,,
-2012,percentage,population who were exposed to physical violence,,,2.7
-2013,percentage,population who were exposed to physical violence,,,
-2014,percentage,population who were exposed to physical violence,,,
-2015,percentage,population who were exposed to physical violence,,,
-2016,percentage,population who were exposed to physical violence,,,
-2017,percentage,population who were exposed to physical violence,,,3.0
-2018,percentage,population who were exposed to physical violence,,,
-2019,percentage,population who were exposed to physical violence,,,
-2020,percentage,population who were exposed to physical violence,,,2.0
-2021,percentage,population who were exposed to physical violence,,,
-2022,percentage,population who were exposed to physical violence,,,
-2010,percentage,population who were victims of criminal offences,,,1.2
-2011,percentage,population who were victims of criminal offences,,,1.2
-2012,percentage,population who were victims of criminal offences,,,1.2
-2013,percentage,population who were victims of criminal offences,,,1.2
-2014,percentage,population who were victims of criminal offences,,,1.2
-2015,percentage,population who were victims of criminal offences,,,1.2
-2016,percentage,population who were victims of criminal offences,,,1.2
-2017,percentage,population who were victims of criminal offences,,,1.2
-2018,percentage,population who were victims of criminal offences,,,1.2
-2019,percentage,population who were victims of criminal offences,,,1.2
-2020,percentage,population who were victims of criminal offences,,,1.2
-2021,percentage,population who were victims of criminal offences,,,1.2
-2022,percentage,population who were victims of criminal offences,,,1.4
-2010,number,victims of criminal offences,,,932126
-2011,number,victims of criminal offences,,,964945
-2012,number,victims of criminal offences,,,976090
-2013,number,victims of criminal offences,,,955737
-2014,number,victims of criminal offences,,,947568
-2015,number,victims of criminal offences,,,946133
-2016,number,victims of criminal offences,,,1017602
-2017,number,victims of criminal offences,,,1008510
-2018,number,victims of criminal offences,,,1025241
-2019,number,victims of criminal offences,,,1013048
-2020,number,victims of criminal offences,,,1011462
-2021,number,victims of criminal offences,,,985790
-2022,number,victims of criminal offences,,,1151908
-2010,number,victims of criminal offences,13 years and younger,,72232
-2011,number,victims of criminal offences,13 years and younger,,70429
-2012,number,victims of criminal offences,13 years and younger,,67579
-2013,number,victims of criminal offences,13 years and younger,,65334
-2014,number,victims of criminal offences,13 years and younger,,64584
-2015,number,victims of criminal offences,13 years and younger,,62342
-2016,number,victims of criminal offences,13 years and younger,,67519
-2017,number,victims of criminal offences,13 years and younger,,68820
-2018,number,victims of criminal offences,13 years and younger,,70590
-2019,number,victims of criminal offences,13 years and younger,,72772
-2020,number,victims of criminal offences,13 years and younger,,70106
-2021,number,victims of criminal offences,13 years and younger,,71931
-2022,number,victims of criminal offences,13 years and younger,,88101
-2010,number,victims of criminal offences,14 to under 18 years,,99135
-2011,number,victims of criminal offences,14 to under 18 years,,92128
-2012,number,victims of criminal offences,14 to under 18 years,,88020
-2013,number,victims of criminal offences,14 to under 18 years,,81633
-2014,number,victims of criminal offences,14 to under 18 years,,77948
-2015,number,victims of criminal offences,14 to under 18 years,,74650
-2016,number,victims of criminal offences,14 to under 18 years,,82930
-2017,number,victims of criminal offences,14 to under 18 years,,84071
-2018,number,victims of criminal offences,14 to under 18 years,,84175
-2019,number,victims of criminal offences,14 to under 18 years,,83713
-2020,number,victims of criminal offences,14 to under 18 years,,76630
-2021,number,victims of criminal offences,14 to under 18 years,,73160
-2022,number,victims of criminal offences,14 to under 18 years,,94157
-2010,number,victims of criminal offences,18 to under 21 years,,109139
-2011,number,victims of criminal offences,18 to under 21 years,,104427
-2012,number,victims of criminal offences,18 to under 21 years,,99541
-2013,number,victims of criminal offences,18 to under 21 years,,89880
-2014,number,victims of criminal offences,18 to under 21 years,,83802
-2015,number,victims of criminal offences,18 to under 21 years,,80941
-2016,number,victims of criminal offences,18 to under 21 years,,88459
-2017,number,victims of criminal offences,18 to under 21 years,,88834
-2018,number,victims of criminal offences,18 to under 21 years,,89688
-2019,number,victims of criminal offences,18 to under 21 years,,85885
-2020,number,victims of criminal offences,18 to under 21 years,,78631
-2021,number,victims of criminal offences,18 to under 21 years,,71267
-2022,number,victims of criminal offences,18 to under 21 years,,83451
-2010,number,victims of criminal offences,21 to under 60 years,,600019
-2011,number,victims of criminal offences,21 to under 60 years,,644770
-2012,number,victims of criminal offences,21 to under 60 years,,666152
-2013,number,victims of criminal offences,21 to under 60 years,,662202
-2014,number,victims of criminal offences,21 to under 60 years,,663253
-2015,number,victims of criminal offences,21 to under 60 years,,668823
-2016,number,victims of criminal offences,21 to under 60 years,,716502
-2017,number,victims of criminal offences,21 to under 60 years,,704139
-2018,number,victims of criminal offences,21 to under 60 years,,715629
-2019,number,victims of criminal offences,21 to under 60 years,,704911
-2020,number,victims of criminal offences,21 to under 60 years,,713436
-2021,number,victims of criminal offences,21 to under 60 years,,694085
-2022,number,victims of criminal offences,21 to under 60 years,,802068
-2010,number,victims of criminal offences,60 years and older,,51601
-2011,number,victims of criminal offences,60 years and older,,53191
-2012,number,victims of criminal offences,60 years and older,,54798
-2013,number,victims of criminal offences,60 years and older,,56688
-2014,number,victims of criminal offences,60 years and older,,57981
-2015,number,victims of criminal offences,60 years and older,,59377
-2016,number,victims of criminal offences,60 years and older,,62192
-2017,number,victims of criminal offences,60 years and older,,62646
-2018,number,victims of criminal offences,60 years and older,,65159
-2019,number,victims of criminal offences,60 years and older,,65767
-2020,number,victims of criminal offences,60 years and older,,72659
-2021,number,victims of criminal offences,60 years and older,,75347
-2022,number,victims of criminal offences,60 years and older,,84131
-2010,number,victims of criminal offences,,female,382263
-2011,number,victims of criminal offences,,female,384661
-2012,number,victims of criminal offences,,female,391566
-2013,number,victims of criminal offences,,female,388258
-2014,number,victims of criminal offences,,female,384786
-2015,number,victims of criminal offences,,female,381892
-2016,number,victims of criminal offences,,female,403500
-2017,number,victims of criminal offences,,female,404035
-2018,number,victims of criminal offences,,female,414147
-2019,number,victims of criminal offences,,female,409968
-2020,number,victims of criminal offences,,female,416931
-2021,number,victims of criminal offences,,female,412503
-2022,number,victims of criminal offences,,female,472191
-2010,number,victims of criminal offences,,male,549863
-2011,number,victims of criminal offences,,male,580284
-2012,number,victims of criminal offences,,male,584524
-2013,number,victims of criminal offences,,male,567479
-2014,number,victims of criminal offences,,male,562782
-2015,number,victims of criminal offences,,male,564241
-2016,number,victims of criminal offences,,male,614102
-2017,number,victims of criminal offences,,male,604475
-2018,number,victims of criminal offences,,male,611094
-2019,number,victims of criminal offences,,male,603080
-2020,number,victims of criminal offences,,male,594531
-2021,number,victims of criminal offences,,male,573287
-2022,number,victims of criminal offences,,male,679717
-
+2010,percentage,A,,,
+2011,percentage,A,,,
+2012,percentage,A,,,2.7
+2013,percentage,A,,,
+2014,percentage,A,,,
+2015,percentage,A,,,
+2016,percentage,A,,,
+2017,percentage,A,,,3.0
+2018,percentage,A,,,
+2019,percentage,A,,,
+2020,percentage,A,,,2.0
+2021,percentage,A,,,
+2022,percentage,A,,,
+2010,percentage,B,,,1.2
+2011,percentage,B,,,1.2
+2012,percentage,B,,,1.2
+2013,percentage,B,,,1.2
+2014,percentage,B,,,1.2
+2015,percentage,B,,,1.2
+2016,percentage,B,,,1.2
+2017,percentage,B,,,1.2
+2018,percentage,B,,,1.2
+2019,percentage,B,,,1.2
+2020,percentage,B,,,1.2
+2021,percentage,B,,,1.2
+2022,percentage,B,,,1.4
+2010,number,C,,,932126
+2011,number,C,,,964945
+2012,number,C,,,976090
+2013,number,C,,,955737
+2014,number,C,,,947568
+2015,number,C,,,946133
+2016,number,C,,,1017602
+2017,number,C,,,1008510
+2018,number,C,,,1025241
+2019,number,C,,,1013048
+2020,number,C,,,1011462
+2021,number,C,,,985790
+2022,number,C,,,1151908
+2010,number,C,13 years and younger,,72232
+2011,number,C,13 years and younger,,70429
+2012,number,C,13 years and younger,,67579
+2013,number,C,13 years and younger,,65334
+2014,number,C,13 years and younger,,64584
+2015,number,C,13 years and younger,,62342
+2016,number,C,13 years and younger,,67519
+2017,number,C,13 years and younger,,68820
+2018,number,C,13 years and younger,,70590
+2019,number,C,13 years and younger,,72772
+2020,number,C,13 years and younger,,70106
+2021,number,C,13 years and younger,,71931
+2022,number,C,13 years and younger,,88101
+2010,number,C,14 to under 18 years,,99135
+2011,number,C,14 to under 18 years,,92128
+2012,number,C,14 to under 18 years,,88020
+2013,number,C,14 to under 18 years,,81633
+2014,number,C,14 to under 18 years,,77948
+2015,number,C,14 to under 18 years,,74650
+2016,number,C,14 to under 18 years,,82930
+2017,number,C,14 to under 18 years,,84071
+2018,number,C,14 to under 18 years,,84175
+2019,number,C,14 to under 18 years,,83713
+2020,number,C,14 to under 18 years,,76630
+2021,number,C,14 to under 18 years,,73160
+2022,number,C,14 to under 18 years,,94157
+2010,number,C,18 to under 21 years,,109139
+2011,number,C,18 to under 21 years,,104427
+2012,number,C,18 to under 21 years,,99541
+2013,number,C,18 to under 21 years,,89880
+2014,number,C,18 to under 21 years,,83802
+2015,number,C,18 to under 21 years,,80941
+2016,number,C,18 to under 21 years,,88459
+2017,number,C,18 to under 21 years,,88834
+2018,number,C,18 to under 21 years,,89688
+2019,number,C,18 to under 21 years,,85885
+2020,number,C,18 to under 21 years,,78631
+2021,number,C,18 to under 21 years,,71267
+2022,number,C,18 to under 21 years,,83451
+2010,number,C,21 to under 60 years,,600019
+2011,number,C,21 to under 60 years,,644770
+2012,number,C,21 to under 60 years,,666152
+2013,number,C,21 to under 60 years,,662202
+2014,number,C,21 to under 60 years,,663253
+2015,number,C,21 to under 60 years,,668823
+2016,number,C,21 to under 60 years,,716502
+2017,number,C,21 to under 60 years,,704139
+2018,number,C,21 to under 60 years,,715629
+2019,number,C,21 to under 60 years,,704911
+2020,number,C,21 to under 60 years,,713436
+2021,number,C,21 to under 60 years,,694085
+2022,number,C,21 to under 60 years,,802068
+2010,number,C,60 years and older,,51601
+2011,number,C,60 years and older,,53191
+2012,number,C,60 years and older,,54798
+2013,number,C,60 years and older,,56688
+2014,number,C,60 years and older,,57981
+2015,number,C,60 years and older,,59377
+2016,number,C,60 years and older,,62192
+2017,number,C,60 years and older,,62646
+2018,number,C,60 years and older,,65159
+2019,number,C,60 years and older,,65767
+2020,number,C,60 years and older,,72659
+2021,number,C,60 years and older,,75347
+2022,number,C,60 years and older,,84131
+2010,number,C,,female,382263
+2011,number,C,,female,384661
+2012,number,C,,female,391566
+2013,number,C,,female,388258
+2014,number,C,,female,384786
+2015,number,C,,female,381892
+2016,number,C,,female,403500
+2017,number,C,,female,404035
+2018,number,C,,female,414147
+2019,number,C,,female,409968
+2020,number,C,,female,416931
+2021,number,C,,female,412503
+2022,number,C,,female,472191
+2010,number,C,,male,549863
+2011,number,C,,male,580284
+2012,number,C,,male,584524
+2013,number,C,,male,567479
+2014,number,C,,male,562782
+2015,number,C,,male,564241
+2016,number,C,,male,614102
+2017,number,C,,male,604475
+2018,number,C,,male,611094
+2019,number,C,,male,603080
+2020,number,C,,male,594531
+2021,number,C,,male,573287
+2022,number,C,,male,679717
