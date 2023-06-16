@@ -49,27 +49,8 @@ source_url_text_2: Durchschnittliche Bevölkerung – GENESIS online 12411-0041
 source_url_2b: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html#sprg233540
 source_url_text_2b: Rückgerechnete und fortgeschriebene Bevölkerung auf Grundlage des Zensus 2011 – 1991 bis 2011
 source_url_2c: https://www-genesis.destatis.de/genesis//online?operation=table&code=12411-0040&bypass=true&language=de#abreadcrumb
-source_url_text_2c: Bevölkerungsfortschreibung als Jahresdurchschnitt – GENESIS online 12411-0040
+source_url_text_2c: Bevölkerungsfortschreibung als Jahresdurchschnitt – GENESIS online 12411-0040   
 
-source_active_3: false
-
-source_active_4: false
-
-source_active_5: false
-
-source_active_6: false
-    
-data_show_map: False    
-   
-    
-copyright: '&copy; Statistisches Bundesamt (Destatis), 2023'    
-
-# Grafik Eigenschaften    
-graph_title: Bevölkerung, die körperlicher Gewalt ausgesetzt war sowie Opfer von (angezeigten) Straftaten
-graph_subtitle:     
+# Grafik Eigenschaften       
 graph_type: line
-
-previous: 16-1-2    
-next: 16-1-4    
-
 national_geographical_coverage: Deutschland
