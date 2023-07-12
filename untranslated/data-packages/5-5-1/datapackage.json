@@ -12,7 +12,62 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "timeseries",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women in the german bundestag (lower chamber)",
+                "women in the bundesrat (upper chamber)",
+                "women in länder parliaments",
+                "women in councils of districts and district-free cities",
+                "members in the bundesrat (upper chamber)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "germany",
+                "baden-württemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
