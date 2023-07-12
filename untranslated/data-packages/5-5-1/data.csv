@@ -1,18 +1,18 @@
 Year,Units,timeseries,region,GeoCode,Value
-2010,percentage,women in the german bundestag (lower chamber),germany,,32.8
-2011,percentage,women in the german bundestag (lower chamber),germany,,33.1
-2012,percentage,women in the german bundestag (lower chamber),germany,,32.9
-2013,percentage,women in the german bundestag (lower chamber),germany,,32.9
-2014,percentage,women in the german bundestag (lower chamber),germany,,36.5
-2015,percentage,women in the german bundestag (lower chamber),germany,,36.3
-2016,percentage,women in the german bundestag (lower chamber),germany,,36.8
-2017,percentage,women in the german bundestag (lower chamber),germany,,37.1
-2018,percentage,women in the german bundestag (lower chamber),germany,,30.9
-2019,percentage,women in the german bundestag (lower chamber),germany,,31.2
-2020,percentage,women in the german bundestag (lower chamber),germany,,31.3
-2021,percentage,women in the german bundestag (lower chamber),germany,,31.5
-2022,percentage,women in the german bundestag (lower chamber),germany,,34.9
-2023,percentage,women in the german bundestag (lower chamber),germany,,35.1
+2010,percentage,women in the bundestag (lower chamber),germany,,32.8
+2011,percentage,women in the bundestag (lower chamber),germany,,33.1
+2012,percentage,women in the bundestag (lower chamber),germany,,32.9
+2013,percentage,women in the bundestag (lower chamber),germany,,32.9
+2014,percentage,women in the bundestag (lower chamber),germany,,36.5
+2015,percentage,women in the bundestag (lower chamber),germany,,36.3
+2016,percentage,women in the bundestag (lower chamber),germany,,36.8
+2017,percentage,women in the bundestag (lower chamber),germany,,37.1
+2018,percentage,women in the bundestag (lower chamber),germany,,30.9
+2019,percentage,women in the bundestag (lower chamber),germany,,31.2
+2020,percentage,women in the bundestag (lower chamber),germany,,31.3
+2021,percentage,women in the bundestag (lower chamber),germany,,31.5
+2022,percentage,women in the bundestag (lower chamber),germany,,34.9
+2023,percentage,women in the bundestag (lower chamber),germany,,35.1
 2010,percentage,women in the bundesrat (upper chamber),germany,,18.8
 2011,percentage,women in the bundesrat (upper chamber),germany,,24.6
 2012,percentage,women in the bundesrat (upper chamber),germany,,27.5
@@ -265,31 +265,31 @@ Year,Units,timeseries,region,GeoCode,Value
 2021,percentage,women in councils of districts and district-free cities,germany,,30.3
 2022,percentage,women in councils of districts and district-free cities,germany,,
 2023,percentage,women in councils of districts and district-free cities,germany,,
-2010,number,women in the german bundestag (lower chamber),germany,,204.0
-2011,number,women in the german bundestag (lower chamber),germany,,206.0
-2012,number,women in the german bundestag (lower chamber),germany,,204.0
-2013,number,women in the german bundestag (lower chamber),germany,,204.0
-2014,number,women in the german bundestag (lower chamber),germany,,230.0
-2015,number,women in the german bundestag (lower chamber),germany,,229.0
-2016,number,women in the german bundestag (lower chamber),germany,,232.0
-2017,number,women in the german bundestag (lower chamber),germany,,234.0
-2018,number,women in the german bundestag (lower chamber),germany,,219.0
-2019,number,women in the german bundestag (lower chamber),germany,,221.0
-2020,number,women in the german bundestag (lower chamber),germany,,222.0
-2021,number,women in the german bundestag (lower chamber),germany,,223.0
-2022,number,women in the german bundestag (lower chamber),germany,,257.0
-2023,number,women in the german bundestag (lower chamber),germany,,258.0
-2010,number,members in the bundesrat (upper chamber),germany,,13.0
-2011,number,members in the bundesrat (upper chamber),germany,,17.0
-2012,number,members in the bundesrat (upper chamber),germany,,19.0
-2013,number,members in the bundesrat (upper chamber),germany,,20.0
-2014,number,members in the bundesrat (upper chamber),germany,,24.0
-2015,number,members in the bundesrat (upper chamber),germany,,28.0
-2016,number,members in the bundesrat (upper chamber),germany,,26.0
-2017,number,members in the bundesrat (upper chamber),germany,,27.0
-2018,number,members in the bundesrat (upper chamber),germany,,27.0
-2019,number,members in the bundesrat (upper chamber),germany,,25.0
-2020,number,members in the bundesrat (upper chamber),germany,,24.0
-2021,number,members in the bundesrat (upper chamber),germany,,23.0
-2022,number,members in the bundesrat (upper chamber),germany,,22.0
-2023,number,members in the bundesrat (upper chamber),germany,,26.0
+2010,number,women in the bundestag (lower chamber),germany,,204.0
+2011,number,women in the bundestag (lower chamber),germany,,206.0
+2012,number,women in the bundestag (lower chamber),germany,,204.0
+2013,number,women in the bundestag (lower chamber),germany,,204.0
+2014,number,women in the bundestag (lower chamber),germany,,230.0
+2015,number,women in the bundestag (lower chamber),germany,,229.0
+2016,number,women in the bundestag (lower chamber),germany,,232.0
+2017,number,women in the bundestag (lower chamber),germany,,234.0
+2018,number,women in the bundestag (lower chamber),germany,,219.0
+2019,number,women in the bundestag (lower chamber),germany,,221.0
+2020,number,women in the bundestag (lower chamber),germany,,222.0
+2021,number,women in the bundestag (lower chamber),germany,,223.0
+2022,number,women in the bundestag (lower chamber),germany,,257.0
+2023,number,women in the bundestag (lower chamber),germany,,258.0
+2010,number,women in the bundesrat (upper chamber),germany,,13.0
+2011,number,women in the bundesrat (upper chamber),germany,,17.0
+2012,number,women in the bundesrat (upper chamber),germany,,19.0
+2013,number,women in the bundesrat (upper chamber),germany,,20.0
+2014,number,women in the bundesrat (upper chamber),germany,,24.0
+2015,number,women in the bundesrat (upper chamber),germany,,28.0
+2016,number,women in the bundesrat (upper chamber),germany,,26.0
+2017,number,women in the bundesrat (upper chamber),germany,,27.0
+2018,number,women in the bundesrat (upper chamber),germany,,27.0
+2019,number,women in the bundesrat (upper chamber),germany,,25.0
+2020,number,women in the bundesrat (upper chamber),germany,,24.0
+2021,number,women in the bundesrat (upper chamber),germany,,23.0
+2022,number,women in the bundesrat (upper chamber),germany,,22.0
+2023,number,women in the bundesrat (upper chamber),germany,,26.0

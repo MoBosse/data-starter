@@ -32,11 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women in the german bundestag (lower chamber)",
+                "women in the bundestag (lower chamber)",
                 "women in the bundesrat (upper chamber)",
                 "women in länder parliaments",
                 "women in councils of districts and district-free cities",
-                "members in the bundesrat (upper chamber)",
                 ""
               ]
             },
