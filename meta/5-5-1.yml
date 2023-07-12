@@ -86,10 +86,14 @@ footer_fields:
 # Grafik Eigenschaften    
 graph_titles:
   - unit: percentage
-    title: Frauenanteil im Deutschen Bundestag, dem Bundesrat, den Landtagen und Gemeinden
+    title: Frauenanteil in der deutschen Politik
   - unit: number
-    title: Anzahl Mitglieder im Deutschen Bundestag und dem Bundesrat
-graph_subtitle:     
+    title: Frauen in der deutschen Politik
+graph_subtitles:   
+  - unit: percentage
+    title: Anteil der Sitze
+  - unit: number
+    title: Anzahl der Sitze
 graph_type: bar
 graph_stepsize: 
   - unit: percentage
