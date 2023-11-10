@@ -75,7 +75,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Geschätzt",
+                "s: Geschätzt",
                 "r",
                 "p",
                 ""

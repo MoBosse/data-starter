@@ -75,7 +75,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Estimated",
+                "s: Estimated",
                 "r",
                 "p",
                 ""
