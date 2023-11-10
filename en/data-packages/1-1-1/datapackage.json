@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "number",
+                "Percentage",
+                "Number",
                 ""
               ]
             },
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "age group",
@@ -50,7 +50,7 @@
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Age group"
           },
           {
             "name": "sex",
@@ -60,7 +60,7 @@
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Value",

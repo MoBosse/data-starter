@@ -22,8 +22,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "number",
+                "Percentage",
+                "Number",
                 ""
               ]
             },
@@ -41,30 +41,30 @@
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "region",
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
-                "baden-württemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
+                "Germany",
+                "Baden-Württemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
@@ -75,7 +75,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "s",
+                "Estimated",
                 "r",
                 "p",
                 ""
@@ -129,21 +129,21 @@
             "constraints": {
               "enum": [
                 "baden-wuerttemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
@@ -320,7 +320,7 @@
                 "uckermark",
                 "bremen, stadt",
                 "bremerhaven, stadt",
-                "hamburg",
+                "Hamburg",
                 "darmstadt, stadt",
                 "frankfurt am main, stadt",
                 "offenbach am main, stadt",
@@ -595,8 +595,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "number",
+                "Percentage",
+                "Number",
                 ""
               ]
             },
@@ -613,7 +613,7 @@
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "age group",
@@ -625,7 +625,7 @@
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Age group"
           },
           {
             "name": "sex",
@@ -635,7 +635,7 @@
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -1556,7 +1556,7 @@
           }
         ]
       },
-      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
+      "title": "Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics"
     },
     {
       "path": "5-c-1/data.csv",
@@ -2324,7 +2324,7 @@
           }
         ]
       },
-      "title": "Pro-poor public social spending"
+      "title": "Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups"
     },
     {
       "path": "9-a-1/data.csv",
